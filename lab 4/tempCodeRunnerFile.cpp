@@ -1,0 +1,1 @@
+amount = working_hrs * 15000 ;

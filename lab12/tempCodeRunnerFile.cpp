@@ -1,0 +1,1 @@
+avg_salary( e,total_emp ) ;
